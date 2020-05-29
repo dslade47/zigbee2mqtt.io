@@ -16,7 +16,7 @@ description: "Integrate your Xiaomi SJCGQ11LM via Zigbee2mqtt with whatever smar
 | Picture | ![Xiaomi SJCGQ11LM](../images/devices/SJCGQ11LM.jpg) |
 
 ## Notes
-
+To get water_leak property set you will have to put your device in the water one time so as a leak should be detected. I will set it and you could get it.
 
 ### Pairing
 Press and hold water logo on the device for +- 10 seconds until the blue light blinks
